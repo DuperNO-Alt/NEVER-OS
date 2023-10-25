@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "3lRa5Ex5xkhJ5yskbFTr06m1iOU2SSPTAyKWYnHng16uzOjqTNV4M36qlO7JLFSATKvmnoxfWSr1Xs06Y3V2Fg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\NEVER-OS\\NEVER-OS\\NEVER-OS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20231021050129\\cosmos.build.0.1.0-localbuild20231021050129.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20231021050143\\cosmos.common.0.1.0-localbuild20231021050143.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20231021050143\\cosmos.core.0.1.0-localbuild20231021050143.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20231021050143\\cosmos.debug.kernel.0.1.0-localbuild20231021050143.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20231021050143\\cosmos.hal2.0.1.0-localbuild20231021050143.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\cosmos.plugs\\0.1.0-localbuild20231021050143\\cosmos.plugs.0.1.0-localbuild20231021050143.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20231021050143\\cosmos.system2.0.1.0-localbuild20231021050143.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20231021050143\\il2cpu.api.0.1.0-localbuild20231021050143.nupkg.sha512"
+  ],
+  "logs": []
+}

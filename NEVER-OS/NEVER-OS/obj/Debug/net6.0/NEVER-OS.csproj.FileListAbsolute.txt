@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\NEVER-OS\NEVER-OS\bin\Debug\net6.0\NEVER-OS.deps.json
+C:\Users\Dell\source\repos\NEVER-OS\NEVER-OS\bin\Debug\net6.0\NEVER-OS.dll
+C:\Users\Dell\source\repos\NEVER-OS\NEVER-OS\bin\Debug\net6.0\NEVER-OS.pdb
+C:\Users\Dell\source\repos\NEVER-OS\NEVER-OS\obj\Debug\net6.0\NEVER-OS.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\NEVER-OS\NEVER-OS\obj\Debug\net6.0\NEVER-OS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\NEVER-OS\NEVER-OS\obj\Debug\net6.0\NEVER-OS.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\NEVER-OS\NEVER-OS\obj\Debug\net6.0\NEVER-OS.AssemblyInfo.cs
+C:\Users\Dell\source\repos\NEVER-OS\NEVER-OS\obj\Debug\net6.0\NEVER-OS.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\NEVER-OS\NEVER-OS\obj\Debug\net6.0\NEVER-OS.dll
+C:\Users\Dell\source\repos\NEVER-OS\NEVER-OS\obj\Debug\net6.0\refint\NEVER-OS.dll
+C:\Users\Dell\source\repos\NEVER-OS\NEVER-OS\obj\Debug\net6.0\NEVER-OS.pdb
+C:\Users\Dell\source\repos\NEVER-OS\NEVER-OS\obj\Debug\net6.0\ref\NEVER-OS.dll
